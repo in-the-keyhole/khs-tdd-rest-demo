@@ -70,7 +70,7 @@
 						<configuration>
 							<target>
 								<copy file="target/awesome-api-0.0.1-SNAPSHOT.war"
-									todir="/opt/apache-tomcat-8.0.15/webapps" />
+									todir="/opt/apache-tomcat-8.0.20/webapps" />
 							</target>
 						</configuration>
 						<goals>
